@@ -1,0 +1,16 @@
+import React from 'react'
+import {View,Text} from 'react-native'
+
+
+
+class Screen3_StackNavigator extends react.Component{
+    render(){
+        return(
+            <View>
+    <Text>Screen 3</Text>
+            </View>
+        )
+    }
+}
+
+export default Screen3_StackNavigator;
